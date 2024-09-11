@@ -4,8 +4,8 @@ Welcome to Spotifail's profile. Our main objective is improve the world with the
 
 # Members
 
-- [x] Cristian Prochnow
-- [x] Gustavo Henrique Dias
-- [x] Lucas Willian de Souza Serpa
-- [x] Marlon de Souza
-- [x] Ryan Gabriel Mazzei Bromati 
+- [x] Cristian Prochnow ([@cristianprochnow](https://github.com/cristianprochnow))
+- [x] Gustavo Henrique Dias ([@guusdias](https://github.com/guusdias))
+- [x] Lucas Willian de Souza Serpa ([@Lucaswillians](https://github.com/Lucaswillians))
+- [x] Marlon de Souza ([@Marlon-Souza16](https://github.com/Marlon-Souza16)))
+- [x] Ryan Gabriel Mazzei Bromati ([@tdayko](https://github.com/tdayko))
