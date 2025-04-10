@@ -8,4 +8,4 @@ Welcome to Spotifail's profile. Our main objective is improve the world with the
 - [x] Gustavo Henrique Dias ([@guusdias](https://github.com/guusdias))
 - [x] Lucas Willian de Souza Serpa ([@Lucaswillians](https://github.com/Lucaswillians))
 - [x] Marlon de Souza ([@Marlon-Souza16](https://github.com/Marlon-Souza16))
-- [x] Ryan Gabriel Mazzei Bromati ([@thekasss](https://github.com/thekasss))
+- [x] Ryan Gabriel Mazzei Bromati ([@ryanbromati](https://github.com/ryanbromati))
